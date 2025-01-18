@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Lhamo Dorje"
 description              : &description "personal description"
