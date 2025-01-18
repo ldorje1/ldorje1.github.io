@@ -18,6 +18,19 @@ redirect_from:
   <strong>Research Area:</strong> Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity
 </p>
 
+### Progress Updates 
+- November 2024: Presented my third paper at the DDDAS Conference at Rutgers University in New Jersey. *(Honorable Mention)*
+- May - August 2024 : AFRL Internship 
+- January 2024: Cleared my PhD Comprehensive Exam and became a PhD Candidate.
+- June 2024: Presented two papers at the ICCC Conference in Denver, Colorado. *(NSF Travel Grant Recepient)*
+- May - August 2023 : AFRL Internship 
+- December 2023: Cleared my PhD Qualifying Exam.
+- January 2023: Started my PhD at Binghamton University.
+- December 2022: Successfully defended my MSc thesis
+
+
+
+
 ### My Matlab Codes for Millimeter-Wave SAR Imaging 
 
 <ul style="font-size: 17px;">
