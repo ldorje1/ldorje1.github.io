@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage                     "
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lhamo Dorje"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "ldorje1/ldorje1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile_pic.jpg"
+  avatar           : "my_profile_pic_1.jpg"
   name             : "Lhamo Dorje"
   pronouns         : # example: "she/her"  
   bio              : "Digital Signal Processing 📡 and Machine Learning 🤖 PhD Candidate"
