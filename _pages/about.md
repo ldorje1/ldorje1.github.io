@@ -19,7 +19,10 @@ redirect_from:
 </p>
 
 ### My Matlab Codes for Millimeter-Wave SAR Imaging 
-- A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection
-- MATLAB Code for Controlling SAR Testbed and Imaging
-- Synthetic SAR Complex Dataset Generator for Machine Learning Training
-- Sparse Data LEO Satellite Imaging
+
+<ul style="font-size: 17px;">
+  <li>A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection</li>
+  <li>MATLAB Code for Controlling SAR Testbed and Imaging</li>
+  <li>Synthetic SAR Complex Dataset Generator for Machine Learning Training</li>
+  <li>Sparse Data LEO Satellite Imaging</li>
+</ul>
