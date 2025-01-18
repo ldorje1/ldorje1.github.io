@@ -21,7 +21,7 @@ repository               : "ldorje1/ldorje1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_profile_pic.jpg"
   name             : "Lhamo Dorje"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
