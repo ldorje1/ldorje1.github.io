@@ -27,8 +27,8 @@ author:
   bio              : "Digital Signal Processing 📡 and Machine Learning 🤖 PhD Candidate"
   location         : #"Earth"
   employer         : "Binghamton University"
-  uri              : # URL
-  email            : #"none@example.org" 
+  uri              : "https://www.binghamton.edu/watson/index.html"
+  email            : "ldorje1@binghamton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
