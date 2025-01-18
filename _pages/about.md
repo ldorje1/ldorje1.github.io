@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the Thomas J. Watson College of Engineering and Applied Science at Binghamton University. My research focuses on modeling lightweight 5G mmWave imaging as an edge service for surveillance applications, with emphasis on key areas such as concealed weapon detection and RF imaging through walls. I also leverage machine learning to develop faster and more efficient mmWave imaging techniques compared to traditional methods. Additionally, my work addresses security challenges and vulnerabilities associated with the system.
+I am a third-year PhD student at Binghamton University. 
 
-I am currently an SFS scholar and a Clifford D. Clark Fellow. Previously, I completed an MSc in Electrical and Computer Engineering, focusing on mmWave radar imaging. I completed all the core undergraduate engineering courses while pursuing my Master's degree. I also hold a Bachelor's degree in Physics from Harpur College at Binghamton University. Additionally, I interned at the Air Force Research Laboratory in 2023 and 2024, where I worked on cybersecurity-related research in radio frequency imaging systems.  
+My research focuses on modeling lightweight 5G mmWave imaging as an edge service for surveillance applications, with emphasis on key areas such as concealed weapon detection and RF imaging through walls. 
+
+I also leverage machine learning to develop faster and more efficient mmWave imaging techniques compared to traditional methods. Additionally, my work addresses security challenges and vulnerabilities associated with the system.
+
+I am currently an SFS scholar and a Clifford D. Clark Fellow. Previously, I completed an MSc in Electrical and Computer Engineering. I completed all the core undergraduate engineering courses while pursuing my Master's degree. I also hold a Bachelor's degree in Physics. Additionally, I interned at the Air Force Research Laboratory in 2023 and 2024, where I worked on cybersecurity-related research in radio frequency imaging systems.  
 
 
 A data-driven personal website
