@@ -14,9 +14,9 @@ redirect_from:
   I am currently an <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>. I completed an MSc in Electrical and Computer Engineering and hold a Bachelor's degree in Physics. I also interned at the Air Force Research Laboratory in 2023 and 2024, focusing on cybersecurity in radio frequency imaging systems.
 </p>
 
-
-### Research Area:
-- Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity 
+<p style="font-size: 17px;">
+Research Area: Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity 
+</p>
 
 My codes for millimeter- wave SAR imaging 
 ======
