@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 <p style="font-size: 17px;">
-Research Area: Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity 
+  <strong>Research Area:</strong> Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity
 </p>
 
 My codes for millimeter- wave SAR imaging 
