@@ -32,7 +32,7 @@ redirect_from:
 - January 2023: Started my PhD at Binghamton University.
 - December 2022: Successfully defended my MSc thesis 🥳
 
-<hr style="border: 2px solid #000; margin: 20px 0;">
+<hr style="border: 2px solid #000; margin: 10px 0;">
 
 ## 💻 My Matlab Codes for Millimeter-Wave SAR Imaging 
 - A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection
