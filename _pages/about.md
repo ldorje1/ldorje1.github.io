@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👋😊 Hi there, I'm Lhamo! I am a third-year PhD student at Binghamton University. My research focuses on modeling lightweight 5G mmWave imaging as an edge service for surveillance applications. I also use machine learning to develop faster and more efficient mmWave imaging techniques. Additionally, my work addresses security challenges and vulnerabilities associated with the system. I am currently an SFS scholar and a Clifford D. Clark Fellow. Previously, I completed an MSc in Electrical and Computer Engineering. I completed all the core undergraduate engineering courses while pursuing my Master's degree. I also hold a Bachelor's degree in Physics. Additionally, I interned at the Air Force Research Laboratory in 2023 and 2024, where I worked on cybersecurity-related research in radio frequency imaging systems.  
+<small>👋😊 Hi there, I'm Lhamo! I am a third-year PhD student at Binghamton University. My research focuses on modeling lightweight 5G mmWave imaging as an edge service for surveillance applications. I also use machine learning to develop faster and more efficient mmWave imaging techniques. Additionally, my work addresses security challenges and vulnerabilities associated with the system. 
+
+I am currently an SFS scholar and a Clifford D. Clark Fellow. Previously, I completed an MSc in Electrical and Computer Engineering. I completed all the core undergraduate engineering courses while pursuing my Master's degree. I also hold a Bachelor's degree in Physics. Additionally, I interned at the Air Force Research Laboratory in 2023 and 2024, where I worked on cybersecurity-related research in radio frequency imaging systems.  
 
 
 A data-driven personal website
