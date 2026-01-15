@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Always ask](/images/what_is_water.png){: .align-right width="300px"}
+<!-- ![Always ask](/images/what_is_water.png){: .align-right width="300px"}-->
 ---
 <p style="font-size: 17px;">
   I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight 5G mmWave imaging for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
