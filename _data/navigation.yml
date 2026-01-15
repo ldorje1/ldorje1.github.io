@@ -5,31 +5,18 @@
 # prevent it from being included in the site.
 
 main:
-  - #title: "Publications"
-    #url: https://scholar.google.com/citations?user=L3oq_2UAAAAJ&hl=en
-    
-  - #title: "Projects"
-    #url: /publications/
-  - #title: "CV"
-    #url: /files/Resume.pdf
+  - title: "About"
+    url: "/#about"
+  - title: "Research"
+    url: "/#research"
+  - title: "Projects"
+    url: "/#projects"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Updates"
+    url: "/#updates"
+  - title: "CV"
+    url: "/#cv"
+  - title: "Contact"
+    url: "/#contact"
 
-  - #title: "Publications"
-    #url: /publications/
-
-  - #title: "Talks"
-    #url: /talks/    
-
-  - #title: "Teaching"
-    #url: /teaching/    
-    
-  - #title: "Portfolio"
-    #url: /portfolio/
-        
-  - #title: "Blog Posts"
-    #url: /year-archive/
-    
-  - #title: "CV"
-    #url: /cv/
-    
-  - #title: "Guide"
-    #url: /markdown/
