@@ -38,6 +38,7 @@ redirect_from:
 - **Jan 2023** — Awarded the **Clifford D. Clark Fellowship**
 - **Jan 2023** — Started my PhD at **Binghamton University**
 - **Dec 2022** — Successfully defended my **M.S. thesis**
+  
 </small>
 <hr style="border: 2px solid #000; margin: 10px 0;">
 
