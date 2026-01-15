@@ -23,6 +23,7 @@ redirect_from:
 <hr style="border: 2px solid #000; margin: 20px 0;">
 
 ## 📝 Updates
+<small>
 - **Jan 2026** — Attended **CES 2026** (Las Vegas, NV)
 - **Jan 2026** — Presented three of our papers at **CCNC 2026** (Las Vegas, NV)
 - **Dec 2025** — Successfully completed my **prospectus** and **colloquium**
@@ -37,7 +38,7 @@ redirect_from:
 - **Jan 2023** — Awarded the **Clifford D. Clark Fellowship**
 - **Jan 2023** — Started my PhD at **Binghamton University**
 - **Dec 2022** — Successfully defended my **M.S. thesis**
-
+</small>
 <hr style="border: 2px solid #000; margin: 10px 0;">
 
 ## 💻 Projects  
