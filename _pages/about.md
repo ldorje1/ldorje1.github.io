@@ -24,7 +24,7 @@ redirect_from:
 
 ## 📝 Updates
 - **Jan 2026** — Attended **CES 2026** (Las Vegas, NV)
-- **Jan 2026** — Presented three papers at **CCNC 2026** (Las Vegas, NV)
+- **Jan 2026** — Presented three of our papers at **CCNC 2026** (Las Vegas, NV)
 - **Dec 2025** — Successfully completed my **prospectus** and **colloquium**
 - **May–Aug 2025** — Internship, **Air Force Research Laboratory (AFRL)**
 - **Nov 2024** — Presented our paper at the **DDDAS Conference** (Rutgers University, NJ) *(Honorable Mention)*
