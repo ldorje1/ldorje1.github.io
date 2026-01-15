@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ![Always ask](/images/what_is_water.png){: .align-right width="300px"}-->
----
+<a id="about"></a>
+## About Me
+
+![Always ask](/images/what_is_water.png){: .align-right width="300px"}
+
 <p style="font-size: 17px;">
   I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight 5G mmWave imaging for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
   I am currently an <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>. I completed my MSc in Electrical and Computer Engineering and hold a Bachelor's degree in Physics. I also interned at the Air Force Research Laboratory in 2023, 2024, and 2025, focusing on cybersecurity in radio frequency imaging systems.
@@ -16,12 +19,16 @@ redirect_from:
 
 ***
 
+<a id="research"></a>
+## Research
+
 <p style="font-size: 17px;">
   <strong>🔍 Research Area:</strong> Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity
 </p>
 
 <hr style="border: 2px solid #000; margin: 20px 0;">
 
+<a id="updates"></a>
 ## 📝 Updates
 <span style="font-size: 0.9em;">
 - **Jan 2026** — Attended **CES 2026** (Las Vegas, NV)
@@ -42,9 +49,23 @@ redirect_from:
 
 <hr style="border: 2px solid #000; margin: 10px 0;">
 
+<a id="projects"></a>
 ## 💻 Projects  
-- A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection
-- MATLAB Code for Controlling SAR Testbed and Imaging
-- Synthetic SAR Complex Dataset Generator for Machine Learning Training
-- Sparse Data LEO Satellite Imaging
+- **[A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection](https://github.com/ldorje1/REPO_NAME)**
+- **[MATLAB Code for Controlling SAR Testbed and Imaging](https://github.com/ldorje1/REPO_NAME)**
+- **[Synthetic SAR Complex Dataset Generator for Machine Learning Training](https://github.com/ldorje1/REPO_NAME)**
+- **[Sparse Data LEO Satellite Imaging](https://github.com/ldorje1/REPO_NAME)**
 
+<a id="publications"></a>
+## Publications
+- Add selected publications here, plus: **[Google Scholar](https://scholar.google.com/citations?user=L3oq_2UAAAAJ&hl=en)**
+
+<a id="cv"></a>
+## CV
+- [Download CV (PDF)](/files/Resume.pdf)
+
+<a id="contact"></a>
+## Contact
+- Email: your.email@binghamton.edu
+- GitHub: https://github.com/ldorje1
+- LinkedIn: REPLACE_ME
