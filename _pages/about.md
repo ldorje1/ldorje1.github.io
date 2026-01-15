@@ -22,19 +22,24 @@ redirect_from:
 
 <hr style="border: 2px solid #000; margin: 20px 0;">
 
-## 📝 Progress Updates 
-- November 2024: Presented my third paper at the DDDAS Conference at Rutgers University in New Jersey *(Honorable Mention)*
-- May - August 2024 : AFRL Internship 
-- January 2024: Cleared my PhD Comprehensive Exam and became a PhD Candidate 🎉
-- June 2024: Presented two papers at the ICCC Conference in Denver, Colorado *(NSF Travel Grant Recepient)*
-- May - August 2023 : AFRL Internship 
-- December 2023: Cleared my PhD Qualifying Exam 🎊
-- January 2023: Started my PhD at Binghamton University.
-- December 2022: Successfully defended my MSc thesis 🥳
+## 📝 Updates 
+- **Jan 2026** — Attended **CES 2026** (Las Vegas, NV)
+- **Jan 2026** — Presented three papers at **CCNC 2026** (Las Vegas, NV)
+- **Dec 2025** — Successfully completed my **prospectus** and **colloquium**
+- **May–Aug 2025** — Internship, **Air Force Research Laboratory (AFRL)**
+- **Nov 2024** — Presented our paper at the **DDDAS Conference** (Rutgers University, NJ) *(Honorable Mention)*
+- **May–Aug 2024** — Internship, **Air Force Research Laboratory (AFRL)**
+- **Jun 2024** — Presented two papers at the **ICCC Conference** (Denver, CO) *(NSF Travel Grant Recipient)*
+- **Jan 2024** — Passed my **PhD Comprehensive Exam** and became a **PhD Candidate** 🎉
+- **Dec 2023** — Passed my **PhD Qualifying Exam** 🎊
+- **May–Aug 2023** — Internship, **Air Force Research Laboratory (AFRL)**
+- **Jan 2023** — Started my PhD at **Binghamton University**
+- **Dec 2022** — Successfully defended my **M.S. thesis** 🥳
+
 
 <hr style="border: 2px solid #000; margin: 10px 0;">
 
-## 💻 My Matlab Codes for Millimeter-Wave SAR Imaging 
+## 💻 Projects  
 - A Low-Cost MIMO Near-field SAR Imaging System for Enhanced Data Collection
 - MATLAB Code for Controlling SAR Testbed and Imaging
 - Synthetic SAR Complex Dataset Generator for Machine Learning Training
