@@ -17,4 +17,6 @@ main:
     url: "/#publications"
   - title: "CV"
     url: "/#cv"
+  - title: "Blog"
+    url: /blog/
  
