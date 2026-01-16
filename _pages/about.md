@@ -64,8 +64,4 @@ redirect_from:
 ## CV
 - [Download CV (PDF)](/files/Resume.pdf)
 
-<a id="contact"></a>
-## Contact
-- Email: your.email@binghamton.edu
-- GitHub: https://github.com/ldorje1
-- LinkedIn: REPLACE_ME
+
