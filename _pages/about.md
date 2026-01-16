@@ -58,7 +58,7 @@ redirect_from:
 
 <a id="publications"></a>
 ## Publications
-- Add selected publications here, plus: **[Google Scholar](https://scholar.google.com/citations?user=L3oq_2UAAAAJ&hl=en)**
+- See my publications here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
 
 <a id="cv"></a>
 ## CV
