@@ -13,7 +13,7 @@ redirect_from:
 ![Always ask](/images/what_is_water.png){: .align-right width="300px"}
 
 <p style="font-size: 17px;">
-  I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight 5G mmWave imaging for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
+  I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight mmWave imaging using radar and communcation (5G) signal for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
   I am currently an <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>. I completed my MSc in Electrical and Computer Engineering and hold a Bachelor's degree in Physics. I also interned at the Air Force Research Laboratory in 2023, 2024, and 2025, focusing on cybersecurity in radio frequency imaging systems.
 </p>
 
