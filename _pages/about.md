@@ -58,7 +58,12 @@ redirect_from:
 
 <a id="publications"></a>
 ## Publications
-- See my publications here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
+- See my full publication list here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
+- Mohsen Hatami, **Lhamo Dorje**, Xiaohua Li, Yu Chen, *Electric Network Frequency as Environmental Fingerprint for Metaverse Security: A Comprehensive Survey* [2025]
+- **Lhamo Dorje**, Xiaohua Li, Yu Chen, Nihal A Poredi, *High-Resolution Imaging Capability of Large-Scale LEO Satellite Constellations* [2024]
+- **Lhamo Dorje**, Qian Qu, Xiaohua Li, Yu Chen, Erika Ardiles-Cruz, *Security of RF Sensing and Imaging Systems in the Age of Digital Twins* [2024]
+- **Lhamo Dorje**, Xiaohua Li, Soamar Homsi, *Evasive Camouflage Attack of RF Sensing and Imaging Systems* [2024]
+- Xiaohua Li, **Lhamo Dorje**, Yezhan Wang, Yu Chen, Erika Ardiles-Cruz, *High-resolution imaging satellite constellation* [2022]
 
 <a id="cv"></a>
 ## CV
