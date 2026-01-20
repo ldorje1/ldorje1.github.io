@@ -68,6 +68,15 @@ redirect_from:
 - **Lhamo Dorje**, Xiaohua (Edward) Li, and Soamar Homsi, *Evasive Camouflage Attacks on RF Sensing and Imaging Systems*, ICCC, Denver, CO, **2024**.
 - Xiaohua (Edward) Li, **Lhamo Dorje**, Yezhan Wang, Yu Chen, and Erika Ardiles-Cruz, *High-Resolution Imaging Satellite Constellations*, **2022**.
 
+## Books Chapters
+- **Lhamo Dorje**, Qian Qu, Xiaohua Li, Yu Chen, and Erika Ardiles-Cruz, *Security of RF Sensing and Imaging Systems in the Age of Digital Twins,* in Dynamic Data Driven Applications Systems: 5th International Conference, DDDAS/Infosymbiotics for Reliable AI 2024, Lecture Notes in Computer Science, vol. 15514, Cham, Switzerland: Springer, 2026, pp. 162–170
+
+## Reviewer
+- AAAI 2026
+- IEEE VCC 2025
+- *Frontiers in Communications and Networks* 2025
+- 13th Wireless Days Conference 2025
+  
 <a id="cv"></a>
 ## CV
 - [Download CV (PDF)](/files/Resume.pdf)
