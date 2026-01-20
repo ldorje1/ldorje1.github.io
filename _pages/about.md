@@ -75,7 +75,7 @@ redirect_from:
 - AAAI 2026
 - IEEE VCC 2025
 - *Frontiers in Communications and Networks* 2025
-- 13th Wireless Days Conference 2025
+- IEEE 13th Wireless Days Conference 2025
   
 <a id="cv"></a>
 ## CV
