@@ -59,14 +59,14 @@ redirect_from:
 <a id="publications"></a>
 ## Publications
 - See my full publication list here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
-- **Lhamo Dorje**, Nihal Poredi, Jordan Madden, Soamar Homsi, Yu Chen; Xiaohua (Edward) Li, *MilliSARImageNet: A 2D High-Resolution Millimeter-Wave SAR Image Dataset* CCNC Las Vegas [2026]
-- Mohsen Hatami, **Lhamo Dorje**, Xiaohua (Edward) Li, Yu Chen, *Is ENF a Good Physical Fingerprint?* CCNC Las Vegas [2026]
-- Han Sun, Qian Qu, **Lhamo Dorje**, Yu Chen; Xiaohua (Edward) Li, *Senior Safety Monitoring in Microverse using Fuzzy Neural Network Enhanced Action Recognition*
-- Mohsen Hatami, **Lhamo Dorje**, Xiaohua Li, Yu Chen, *Electric Network Frequency as Environmental Fingerprint for Metaverse Security: A Comprehensive Survey* [2025]
-- **Lhamo Dorje**, Xiaohua Li, Yu Chen, Nihal A Poredi, *High-Resolution Imaging Capability of Large-Scale LEO Satellite Constellations* [2024]
-- **Lhamo Dorje**, Qian Qu, Xiaohua Li, Yu Chen, Erika Ardiles-Cruz, *Security of RF Sensing and Imaging Systems in the Age of Digital Twins* [2024]
-- **Lhamo Dorje**, Xiaohua Li, Soamar Homsi, *Evasive Camouflage Attack of RF Sensing and Imaging Systems* [2024]
-- Xiaohua Li, **Lhamo Dorje**, Yezhan Wang, Yu Chen, Erika Ardiles-Cruz, *High-resolution imaging satellite constellation* [2022]
+- **Lhamo Dorje**, Nihal Poredi, Jordan Madden, Soamar Homsi, Yu Chen, and Xiaohua (Edward) Li, *MilliSARImageNet: A 2D High-Resolution Millimeter-Wave SAR Image Dataset*, CCNC, Las Vegas, NV, **2026**.
+- Mohsen Hatami, **Lhamo Dorje**, Xiaohua (Edward) Li, and Yu Chen, *Is ENF a Good Physical Fingerprint?*, CCNC, Las Vegas, NV, **2026**.
+- Han Sun, Qian Qu, **Lhamo Dorje**, Yu Chen, and Xiaohua (Edward) Li, *Senior Safety Monitoring in the Microverse Using Fuzzy Neural Network–Enhanced Action Recognition*, CCNC, Las Vegas, NV, **2026**.
+- Mohsen Hatami, **Lhamo Dorje**, Xiaohua (Edward) Li, and Yu Chen, *Electric Network Frequency as an Environmental Fingerprint for Metaverse Security: A Comprehensive Survey*, **2025**.
+- **Lhamo Dorje**, Xiaohua (Edward) Li, Yu Chen, and Nihal A. Poredi, *High-Resolution Imaging Capability of Large-Scale LEO Satellite Constellations*, ICCC, Denver, CO, **2024**.
+- **Lhamo Dorje**, Qian Qu, Xiaohua (Edward) Li, Yu Chen, and Erika Ardiles-Cruz, *Security of RF Sensing and Imaging Systems in the Age of Digital Twins*, DDDAS, NJ, **2024**.
+- **Lhamo Dorje**, Xiaohua (Edward) Li, and Soamar Homsi, *Evasive Camouflage Attacks on RF Sensing and Imaging Systems*, ICCC, Denver, CO, **2024**.
+- Xiaohua (Edward) Li, **Lhamo Dorje**, Yezhan Wang, Yu Chen, and Erika Ardiles-Cruz, *High-Resolution Imaging Satellite Constellations*, **2022**.
 
 <a id="cv"></a>
 ## CV
