@@ -59,6 +59,9 @@ redirect_from:
 <a id="publications"></a>
 ## Publications
 - See my full publication list here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
+- **Lhamo Dorje**, Nihal Poredi, Jordan Madden, Soamar Homsi, Yu Chen; Xiaohua (Edward) Li, *MilliSARImageNet: A 2D High-Resolution Millimeter-Wave SAR Image Dataset* CCNC Las Vegas [2026]
+- Mohsen Hatami, **Lhamo Dorje**, Xiaohua (Edward) Li, Yu Chen, *Is ENF a Good Physical Fingerprint?* CCNC Las Vegas [2026]
+- Han Sun, Qian Qu, **Lhamo Dorje**, Yu Chen; Xiaohua (Edward) Li, *Senior Safety Monitoring in Microverse using Fuzzy Neural Network Enhanced Action Recognition*
 - Mohsen Hatami, **Lhamo Dorje**, Xiaohua Li, Yu Chen, *Electric Network Frequency as Environmental Fingerprint for Metaverse Security: A Comprehensive Survey* [2025]
 - **Lhamo Dorje**, Xiaohua Li, Yu Chen, Nihal A Poredi, *High-Resolution Imaging Capability of Large-Scale LEO Satellite Constellations* [2024]
 - **Lhamo Dorje**, Qian Qu, Xiaohua Li, Yu Chen, Erika Ardiles-Cruz, *Security of RF Sensing and Imaging Systems in the Age of Digital Twins* [2024]
