@@ -38,11 +38,11 @@ redirect_from:
 - **Nov 2024** — Presented our paper at the **DDDAS Conference** (Rutgers University, NJ) *(Honorable Mention)*
 - **May–Aug 2024** — Internship, **Air Force Research Laboratory (AFRL)**
 - **Jun 2024** — Presented two papers at the **ICCC Conference** (Denver, CO) *(NSF Travel Grant Recipient)*
-- **Jan 2024** — Awarded the **CyberCorps Scholarship for Service**
+- **Jan 2024** — Awarded the **CyberCorps Scholarship for Service (2 year funding)** 
 - **Jan 2024** — Passed my **PhD Comprehensive Exam** and became a **PhD Candidate**
 - **Dec 2023** — Passed my **PhD Qualifying Exam**
 - **May–Aug 2023** — Internship, **Air Force Research Laboratory (AFRL)**
-- **Jan 2023** — Awarded the **Clifford D. Clark Fellowship**
+- **Jan 2023** — Awarded the **Clifford D. Clark Fellowship (4 year funding)** 
 - **Jan 2023** — Started my PhD at **Binghamton University**
 - **Dec 2022** — Successfully defended my **M.S. thesis**
 
