@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there 👋😊, I'm Lhamo!"
+title: "Hi there 👋😊, I'm Dorje!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,8 +13,10 @@ redirect_from:
 ![Always ask](/images/what_is_water.png){: .align-right width="300px"}
 
 <p style="font-size: 17px;">
-  I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight mmWave imaging using radar and communcation (5G) signal for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
-  I am currently an <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>. I completed my MSc in Electrical and Computer Engineering and hold a Bachelor's degree in Physics. I also interned at the Air Force Research Laboratory in 2023, 2024, and 2025, focusing on cybersecurity in radio frequency imaging systems.
+I am a Senior Systems Engineer at Lockheed Martin Rotary and Mission Systems (RMS), holding a Ph.D. in Electrical Engineering from Binghamton University. My background spans physics, electrical engineering, radar systems, and signal processing. I am a former <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>.
+  
+  <!-- I am a third-year PhD student at Binghamton University. My research focuses on modelling a lightweight mmWave imaging using radar and communcation (5G) signal for surveillance applications. I use machine learning to develop faster and more efficient imaging techniques. I also work on addressing security challenges in these systems.
+  I am currently an <a href="https://sfs.opm.gov/">SFS scholar</a> and a <a href="https://www.binghamton.edu/grad-school/awards-honors/clark-fellowship.html">Clifford D. Clark Fellow</a>. I completed my MSc in Electrical and Computer Engineering and hold a Bachelor's degree in Physics. I also interned at the Air Force Research Laboratory in 2023, 2024, and 2025, focusing on cybersecurity in radio frequency imaging systems.-->
 </p>
 
 ***
@@ -23,14 +25,16 @@ redirect_from:
 ## Research
 
 <p style="font-size: 17px;">
-  <strong>🔍 Research Area:</strong> Computation Imaging, RF Remote Sensing, Millimeter-Wave imaging (Radar and 5G Communication), Artificial Intelligence, Cybersecurity
+  <strong>🔍 Research Area:</strong> Radar Systems, RF Sensing and Imaging, Millimeter-Wave Technology, Signal Processing, Computational Imaging, Artificial Intelligence, and Cybersecurity.
 </p>
 
 <hr style="border: 2px solid #000; margin: 20px 0;">
 
 <a id="updates"></a>
 ## 📝 Updates
-
+- **Sep 2026** — Joined Lockheed Martin as a Senior Systems Engineer (New Jersey).
+- **May 2026** — Successfully defended my Ph.D. dissertation at Binghamton University.
+- **Apr-Jun 2026** — Awarded $30,000 in research funding from the Air Force Research Laboratory (AFRL) (Rome, NY).
 - **Jan 2026** — Attended **CES 2026** (Las Vegas, NV)
 - **Jan 2026** — Presented three of our papers at **CCNC 2026** (Las Vegas, NV)
 - **Dec 2025** — Successfully completed my **prospectus** and **colloquium**
