@@ -63,6 +63,7 @@ I am a Senior Systems Engineer at Lockheed Martin Rotary and Mission Systems (RM
 <a id="publications"></a>
 ## Publications
 - See my full publication list here: **[Google Scholar](https://scholar.google.com/citations?hl=en&user=L3oq_2UAAAAJ)**
+- **Lhamo Dorje** Jordan Madden, Soamar Homsi, and Xiaohua Li. "Adversarial Robustness of Near-Field Millimeter-Wave Imaging under Waveform-Domain Attacks." arXiv preprint arXiv:2604.21774 (2026).
 - **Lhamo Dorje**, Nihal Poredi, Jordan Madden, Soamar Homsi, Yu Chen, and Xiaohua (Edward) Li, *MilliSARImageNet: A 2D High-Resolution Millimeter-Wave SAR Image Dataset*, CCNC, Las Vegas, NV, **2026**.
 - Mohsen Hatami, **Lhamo Dorje**, Xiaohua (Edward) Li, and Yu Chen, *Is ENF a Good Physical Fingerprint?*, CCNC, Las Vegas, NV, **2026**.
 - Han Sun, Qian Qu, **Lhamo Dorje**, Yu Chen, and Xiaohua (Edward) Li, *Senior Safety Monitoring in the Microverse Using Fuzzy Neural Network–Enhanced Action Recognition*, CCNC, Las Vegas, NV, **2026**.
